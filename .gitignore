@@ -1,0 +1,19 @@
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+.netrc
+*.pem
+*.key
+# Python/local runtimes
+__pycache__/
+*.py[cod]
+.venv/
+.ipynb_checkpoints/
+# Large reproducible working data; manifests are versioned
+data/raw/
+data/interim/
+work/
+# OS files
+.DS_Store
+Thumbs.db

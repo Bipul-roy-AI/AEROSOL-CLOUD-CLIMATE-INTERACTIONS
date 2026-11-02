@@ -1,0 +1,1 @@
+provider,collection,version,granule_or_request_id,observation_start_utc,observation_end_utc,source_url,bbox,variables_or_levels,local_or_archive_path,downloaded_at_utc,byte_count,sha256,license_or_terms,citation_doi,status,notes
